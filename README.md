@@ -61,14 +61,3 @@ This Streamlit application processes multiple PDF documents, extracts text, gene
 - `README.md`: Instructions and information about the application.
 - `requirements.txt`: List of Python dependencies.
 
-## Credits
-
-- Mention any libraries or resources used in your project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Please adjust the content, dependencies, and folder structure sections according to your project's specifics. Add or modify sections to provide comprehensive information for users or contributors who interact with your application.
